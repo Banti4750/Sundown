@@ -1,4 +1,4 @@
-import React from 'react'
+
 import image from '../aseests/Holding_thumb-p-500.webp'
 
 const Card = () => {

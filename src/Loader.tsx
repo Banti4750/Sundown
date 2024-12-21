@@ -19,7 +19,7 @@
 
 
 
-import React, { useState, useEffect } from "react";
+import  { useState, useEffect } from "react";
 
 const Loader = ({ onAnimationEnd }: { onAnimationEnd: () => void }) => {
     const [isExiting, setIsExiting] = useState(false); // Track if the loader is exiting

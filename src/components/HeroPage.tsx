@@ -1,5 +1,5 @@
 import Animation_ from "../component_part2/Animation_"
-import Video from "../component_part2/Video"
+// import Video from "../component_part2/Video"
 // import Animation_ from "../component_part2/Animation_"
 import Content from "./Content"
 import Navbar from "./Navbar"

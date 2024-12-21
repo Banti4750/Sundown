@@ -1,4 +1,4 @@
-import React from 'react';
+
 import InputAnimation from "./components/InputAnimation";
 
 const Footer = () => {

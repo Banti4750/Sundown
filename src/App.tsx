@@ -77,7 +77,7 @@
 
 
 
-import { useState, useEffect } from "react";
+import { useState} from "react";
 
 import Loader from "./Loader";
 import HeroPage from "./components/HeroPage";
