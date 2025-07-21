@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Sondown Studio Banner](https://via.placeholder.com/800x200/6366f1/ffffff?text=Sondown+Studio)
+
 
 **A modern React application showcasing cutting-edge UI components and animations**
 
@@ -147,15 +147,6 @@ Sondown_Studio/
 └── 📄 README.md           # This file
 ```
 
-## 🎨 Screenshots
-
-<div align="center">
-
-| Desktop View | Mobile View |
-|--------------|-------------|
-| ![Desktop](https://via.placeholder.com/400x250/6366f1/ffffff?text=Desktop+View) | ![Mobile](https://via.placeholder.com/200x350/10b981/ffffff?text=Mobile+View) |
-
-</div>
 
 ## 🤝 Contributing
 
